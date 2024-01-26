@@ -19,7 +19,7 @@ module.exports = () => {
     },
     plugins: [
       new HtmlWebpackPlugin({
-        template: './index.js',
+        template: './index.html',
         title: 'Progressive Web Application',
       }),
       new WebpackPwaManifest({

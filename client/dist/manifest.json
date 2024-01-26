@@ -1,0 +1,10 @@
+{
+  "name": "Progressive Web Application",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "A text editor that works offline",
+  "background_color": "#2218A7",
+  "theme_color": "#2218A7"
+}
